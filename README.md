@@ -1,7 +1,7 @@
 # ☠️🏴‍☠️ ¡Hola! Soy **Mrandon** 👋
 
 <p align="center">
-  <img src="[[file:///C:/Users/FULLCOMPU/Pictures/Walppaper/Luffy%20Gear%205.png](https://images6.alphacoders.com/851/thumb-1920-851069.png)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8kxG5gbcF0hh3kAx_hOgmjLRCW6kQKq9FpQ&s)" width="200" alt="One Piece Jolly Roger" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp0ze636ufgRbfapV47tZ4JW8qMyxPrfhgOw&s" width="200" alt="One Piece Jolly Roger" />
 </p>
 
 <p align="center">
