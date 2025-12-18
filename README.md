@@ -1,8 +1,9 @@
 # ☠️🏴‍☠️ ¡Hola! Soy **Mrandon** 👋
 
 <p align="center">
-  <img src="asdasd" width="200" alt="One Piece Jolly Roger" />
+  <img src="assets/Banner.png" alt="One Piece x Dev Banner" />
 </p>
+
 
 <p align="center">
   <i>"Siguiendo los pasos de mi propio destino"</i> ⚓
