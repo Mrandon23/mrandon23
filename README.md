@@ -1,7 +1,7 @@
 # ☠️🏴‍☠️ ¡Hola! Soy **Mrandon** 👋
 
 <p align="center">
-  <img src="[https://i.imgur.com/8Qf6ZpC.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRMBA8Bc4tgcK2i6ZCS1PkX47RMpQ80FdsjzxjEbkJ6JJv6OXs)" width="200" alt="One Piece Jolly Roger" />
+  <img src="https://avatars.githubusercontent.com/u/216226626?v=4&size=64" width="200" alt="One Piece Jolly Roger" />
 </p>
 
 <p align="center">
