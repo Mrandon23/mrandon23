@@ -90,7 +90,7 @@ va de **no rendirse hasta encontrar tu propio tesoro** 💎
 ## ☠️ Mensaje final
 
 <p align="center">
-  <img src="[https://i.imgur.com/5y9VQZx.png](https://th.wallhaven.cc/small/kx/kxd7d7.jpg)" width="300" alt="Luffy" />
+  <img src="assets/footer_img" width="300" alt="Luffy" />
 </p>
 
 Este perfil no muestra a un experto.
