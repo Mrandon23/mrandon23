@@ -1,7 +1,7 @@
 # ☠️🏴‍☠️ ¡Hola! Soy **Mrandon** 👋
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/216226626?v=4&size=64" width="200" alt="One Piece Jolly Roger" />
+  <img src="file:///C:/Users/FULLCOMPU/Pictures/Walppaper/Luffy%20Gear%205.png" width="200" alt="One Piece Jolly Roger" />
 </p>
 
 <p align="center">
