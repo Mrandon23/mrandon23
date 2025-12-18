@@ -1,11 +1,11 @@
 # ☠️🏴‍☠️ ¡Hola! Soy **Mrandon** 👋
 
 <p align="center">
-  <img src="https://i.imgur.com/8Qf6ZpC.png" width="200" alt="One Piece Jolly Roger" />
+  <img src="[https://i.imgur.com/8Qf6ZpC.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRMBA8Bc4tgcK2i6ZCS1PkX47RMpQ80FdsjzxjEbkJ6JJv6OXs)" width="200" alt="One Piece Jolly Roger" />
 </p>
 
 <p align="center">
-  <i>"Siguiendo los pasos de mi propio criterio… o de mi propio destino. Cualquiera de los dos me basta."</i> ⚓
+  <i>"Siguiendo los pasos de mi propio destino"</i> ⚓
 </p>
 
 ---
@@ -46,7 +46,7 @@ va de **no rendirse hasta encontrar tu propio tesoro** 💎
 * ⚓ Usar **Git y GitHub** con seguridad en proyectos reales
 * ⚓ Crear proyectos personales que muestren progreso real
 * ⚓ Aprender a resolver errores sin rendirme
-* ⚓ Entender el código, no solo copiarlo
+* ⚓ Aprender de tí, aun sin que me enseñes nada
 * ⚓ Construir disciplina diaria, incluso sin motivación
 * ⚓ Convertirme en un desarrollador confiable y constante
 
@@ -60,6 +60,10 @@ va de **no rendirse hasta encontrar tu propio tesoro** 💎
 * Aprender lento también es avanzar
 * El error no es fracaso, es entrenamiento
 * La constancia vence al talento sin disciplina
+* Los sueños no se cumplen, pero solo si no trabajas para cumplirlo
+* Mi tiempo vale mas que el oro, porque es lo unico que no recupero
+* Si no sigues mi ritmo, te dejare atras sin dudarlo un segundo
+* **Protejo solo 4 cosas en la vida: Mi vida, La de ella, Mis sueños y Los de ella, Nada importa despues de eso**
 
 ---
 
@@ -85,12 +89,12 @@ va de **no rendirse hasta encontrar tu propio tesoro** 💎
 ## ☠️ Mensaje final
 
 <p align="center">
-  <img src="https://i.imgur.com/5y9VQZx.png" width="300" alt="Luffy" />
+  <img src="[https://i.imgur.com/5y9VQZx.png](https://th.wallhaven.cc/small/kx/kxd7d7.jpg)" width="300" alt="Luffy" />
 </p>
 
 Este perfil no muestra a un experto.
 Muestra a alguien que **no piensa rendirse**.
 
-> *"Si voy a caer, que sea avanzando."* ☀️🏴‍☠️
+> *"Si voy a caer, que sea avanzando, y si voy a avanzar, **nunca voy a mirar atras.**"* ☀️🏴‍☠️
 
 ⭐ **Gracias por visitar mi perfil. El viaje apenas comienza…**
